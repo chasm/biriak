@@ -1,4 +1,5 @@
 risin
 =====
 
-riak w/sinatra
+riak w/rails
+
